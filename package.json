@@ -1,8 +1,8 @@
 {
-  "name": "sc-grunt-loopback-sdk-angular",
+  "name": "grunt-loopback-sdk-angular",
   "description": "Grunt plugin for auto-generating Angular $resource services for LoopBack",
   "version": "1.7.0-sc",
-  "homepage": "https://github.com/strongloop/grunt-loopback-sdk-angular",
+  "homepage": "https://github.com/sandscap-sc/grunt-loopback-sdk-angular",
   "author": {
     "name": "StrongLoop, Inc.",
     "email": "callback@strongloop.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/grunt-loopback-sdk-angular.git"
+    "url": "git://github.com/sandscap-sc/grunt-loopback-sdk-angular.git"
   },
   "bugs": {
-    "url": "https://github.com/strongloop/grunt-loopback-sdk-angular/issues"
+    "url": "https://github.com/sandscap-sc/grunt-loopback-sdk-angular/issues"
   },
   "license": "MIT",
   "engines": {
